@@ -26,3 +26,24 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+/* Define a class for the Mexican-inspired link style */
+.mexican-link {
+    text-decoration: none; /* Remove the default underline */
+    color: #FFD700; /* Gold color for the link text */
+    font-weight: regular;
+    font-size: 18px;
+    border-bottom: 2px solid #FF0000; /* Red border at the bottom */
+    transition: border-bottom 0.3s, color 0.3s; /* Add a smooth transition effect */
+  
+    /* Add a hover effect */
+    &:hover {
+      color: #228B22; /* Green color on hover */
+      border-bottom: 2px solid #228B22; /* Green border at the bottom on hover */
+    }
+  }
+  
+  /* Apply the Mexican-inspired link style to a specific class or HTML element */
+  /* For example, you can use it like this in your HTML: */
+  /* <a href="#" class="mexican-link">Mexican Link</a> */
+  
