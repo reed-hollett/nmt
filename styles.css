@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-size: 18px;
+    font-size: 14px;
     overflow: hidden;
     font-family: Courier, monospace;
 }
@@ -33,7 +33,7 @@ body {
     text-decoration: none; /* Remove the default underline */
     color: #FFD700; /* Gold color for the link text */
     font-weight: regular;
-    font-size: 18px;
+    font-size: 14px;
     border-bottom: 2px solid #FF0000; /* Red border at the bottom */
     transition: border-bottom 0.3s, color 0.3s; /* Add a smooth transition effect */
   
