@@ -47,4 +47,13 @@ body {
   /* Apply the Mexican-inspired link style to a specific class or HTML element */
   /* For example, you can use it like this in your HTML: */
   /* <a href="#" class="mexican-link">Mexican Link</a> */
+
+  .border {
+    font-family: monospace;
+    font-size: 24px;
+    white-space: pre;
+    color: #ff6600;
+    text-shadow: 1px 1px 1px #333;
+}
+
   
