@@ -33,7 +33,7 @@ body {
 /* Define a class for the Mexican-inspired link style */
 .mexican-link {
     text-decoration: none; /* Remove the default underline */
-    color: #FFD700; /* Gold color for the link text */
+    color: #d58b00; /* Gold color for the link text */
     font-weight: regular;
     font-size: 14px;
     border-bottom: 2px solid #FF0000; /* Red border at the bottom */
